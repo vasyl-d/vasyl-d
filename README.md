@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasyl-d
 - 👀 
-- 🌱 I’m currently learning python 
-- 💞️ 
+- 🌱 python, javascript, html/css dev 
+- 💞️ like fetch data via api or selenium and organize it
 - 📫 How to reach me ... - write an email
 
 <!---
